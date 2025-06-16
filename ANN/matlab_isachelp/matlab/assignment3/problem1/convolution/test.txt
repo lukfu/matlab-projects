@@ -1,0 +1,6 @@
+1) filters(3,3)*many
+
+2)get convolutional layer from a convolution,  weights? init normal, ReLu here?
+
+3)pooling convolution layer
+

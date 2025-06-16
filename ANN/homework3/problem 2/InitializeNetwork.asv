@@ -1,0 +1,3 @@
+function [wIn,wReservoir] = InitializeNetwork(nInput,nReservoir)
+variance = sqrt(0.002)
+end
